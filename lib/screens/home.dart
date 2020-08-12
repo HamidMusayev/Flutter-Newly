@@ -11,9 +11,14 @@ class _HomeState extends State<Home> {
     return Scaffold(
       appBar: AppBar(
         title: Row(
+          mainAxisAlignment: MainAxisAlignment.center,
           children: [Text("News on"), Text("Newly", style: TextStyle(color: Colors.blue),)],
         ),
+        centerTitle: true,
+        elevation: 0.0,
       ),
+      body: Container(),
     );
   }
 }
+
