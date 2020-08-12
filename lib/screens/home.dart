@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:news_app/helper/data.dart';
-import 'package:news_app/models/category.dart';
+import 'package:news_app/models/category_model.dart';
 import 'package:news_app/widgets/category_tile.dart';
 
 class Home extends StatefulWidget {
