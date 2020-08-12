@@ -40,15 +40,14 @@ class _CategoryState extends State<Category> {
 
   buildAppBar() {
     return AppBar(
+      elevation: 0.0,
       title: Row(
-        mainAxisAlignment: MainAxisAlignment.center,
+        mainAxisAlignment: MainAxisAlignment.start,
         children: [
           Text("News on "),
           Text("Newly", style: TextStyles().appBarTextStyle())
         ],
       ),
-      centerTitle: true,
-      elevation: 0.0,
     );
   }
 
