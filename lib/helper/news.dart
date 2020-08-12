@@ -8,7 +8,7 @@ class News {
 
   Future<void> getNews() async {
     String url =
-        "http://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=7c91f88f8b664bca860ca1cd076cc027";
+        "http://newsapi.org/v2/top-headlines?country=tr&category=business&apiKey=7c91f88f8b664bca860ca1cd076cc027";
     var response = await http.get(url);
     var jsonData = jsonDecode(response.body);
     if (jsonData["status"] == "ok") {
@@ -22,7 +22,7 @@ class News {
               description: element["description"],
               url: element["url"],
               urlToImage: element["urlToImage"],
-              publishedAt: element["publishedAt"],
+              //publishedAt: element["publishedAt"],
               content: element["context"]
           );
 
