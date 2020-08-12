@@ -27,13 +27,16 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: buildAppBar(),
-      body: Container(
-          child: _loading
-              ? Center(child: CircularProgressIndicator())
-              : Column(children: <Widget>[
-                buildCategoryList(),
-                buildNewsList()
-          ])
+      body: SingleChildScrollView(
+        child: Container(
+            padding: EdgeInsets.symmetric(horizontal: 12),
+            child: _loading
+                ? Center(child: CircularProgressIndicator())
+                : Column(children: <Widget>[
+                  buildCategoryList(),
+                  buildNewsList()
+            ])
+        ),
       ),
     );
   }
@@ -54,7 +57,6 @@ class _HomeState extends State<Home> {
 
   buildCategoryList() {
     return Container(
-      padding: EdgeInsets.symmetric(horizontal: 12),
       height: 70,
       child: ListView.builder(
           shrinkWrap: true,
