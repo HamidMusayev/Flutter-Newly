@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:news_app/helper/category_data.dart';
-import 'package:news_app/helper/news.dart';
+import 'package:news_app/helper/news_api.dart';
 import 'package:news_app/models/article_model.dart';
 import 'package:news_app/models/category_model.dart';
 import 'package:news_app/utils/text_styles.dart';
@@ -82,6 +82,7 @@ class _HomeState extends State<Home> {
             imageUrl: articles[index].urlToImage,
             title: articles[index].title,
             desc: articles[index].description,
+            url: articles[index].url,
           );
         },
       ),
