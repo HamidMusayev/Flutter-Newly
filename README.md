@@ -1,7 +1,6 @@
 # Newly
 News app with newsApi.org
 
-❗
 ✔ Current ver. : 2.0.0 -stable
 ✔ Last updated : 13.08.2020
 ✔ Beautiful UI
