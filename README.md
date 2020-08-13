@@ -11,6 +11,8 @@ News app with newsApi.org. You can also read news by categories
 
 ✅ Categories: Business, Entertainment, General, Health, Science, Sports, Technology
 
+✅ Apk: https://drive.google.com/file/d/1YoSRlRIvcTVNXGf0Id5jKL0ERvZeVTR6/view?usp=sharing
+
 # Screens
 <img src="https://github.com/hemidvsmusayev/Newly/blob/master/assets/screens/1.jpg?raw=true" width="300"> <img src="https://github.com/hemidvsmusayev/Newly/blob/master/assets/screens/2.jpg?raw=true" width="300">
 
