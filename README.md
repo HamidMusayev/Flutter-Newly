@@ -1,6 +1,16 @@
-# news_app
+# Newly
+News app with newsApi.org
 
-A new Flutter application.
+❗
+✔ Current ver. : 2.0.0 -stable
+✔ Last updated : 13.08.2020
+✔ Beautiful UI
+✔ Clean code
+
+# Screens
+<img src="https://github.com/hemidvsmusayev/Chatify-firebase/blob/master/assets/screens/1.png?raw=true" width="300"> <img src="https://github.com/hemidvsmusayev/Chatify-firebase/blob/master/assets/screens/2.png?raw=true" width="300"> <img src="https://github.com/hemidvsmusayev/Chatify-firebase/blob/master/assets/screens/3.png?raw=true" width="300">
+<img src="https://github.com/hemidvsmusayev/Chatify-firebase/blob/master/assets/screens/4.png?raw=true" width="300"> <img src="https://github.com/hemidvsmusayev/Chatify-firebase/blob/master/assets/screens/5.png?raw=true" width="300"> <img src="https://github.com/hemidvsmusayev/Chatify-firebase/blob/master/assets/screens/6.png" width="300"> 
+
 
 ## Getting Started
 
