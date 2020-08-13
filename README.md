@@ -1,10 +1,16 @@
 # Newly
 News app with newsApi.org
+Read news with categories
 
 ✔ Current ver. : 2.0.0 -stable
+
 ✔ Last updated : 13.08.2020
+
 ✔ Beautiful UI
+
 ✔ Clean code
+
+✅ Categories: Business, Entertainment, General, Health, Science, Sports, Technology
 
 # Screens
 <img src="https://github.com/hemidvsmusayev/Newly/blob/master/assets/screens/1.jpg?raw=true" width="300"> <img src="https://github.com/hemidvsmusayev/Newly/blob/master/assets/screens/2.jpg?raw=true" width="300">
