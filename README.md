@@ -1,5 +1,5 @@
 # Newly
-News app with newsApi.org. Read news with categories
+News app with newsApi.org. You can also read news by categories
 
 ✔ Current ver. : 2.0.0 -stable
 
