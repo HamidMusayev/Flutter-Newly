@@ -7,7 +7,8 @@ News app with newsApi.org
 ✔ Clean code
 
 # Screens
-<img src="https://github.com/hemidvsmusayev/Newly/blob/master/assets/screens/1.jpg?raw=true" width="300"> <img src="https://github.com/hemidvsmusayev/Newly/blob/master/assets/screens/2.jpg?raw=true" width="300"> 
+<img src="https://github.com/hemidvsmusayev/Newly/blob/master/assets/screens/1.jpg?raw=true" width="300"> <img src="https://github.com/hemidvsmusayev/Newly/blob/master/assets/screens/2.jpg?raw=true" width="300">
+
 <img src="https://github.com/hemidvsmusayev/Newly/blob/master/assets/screens/3.jpg?raw=true" width="300"> <img src="https://github.com/hemidvsmusayev/Newly/blob/master/assets/screens/4.jpg?raw=true" width="300"> 
 
 
