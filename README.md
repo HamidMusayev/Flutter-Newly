@@ -1,7 +1,7 @@
 # Newly
 News app with newsApi.org. You can also read news by categories
 
-✔ Current ver. : 2.0.0 -stable
+✔ Current ver. : 1.1.0 -stable
 
 ✔ Last updated : 13.08.2020
 
